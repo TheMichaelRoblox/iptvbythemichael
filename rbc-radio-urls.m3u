@@ -1,0 +1,14 @@
+#EXTINF:0,Радио РБК (Весь Мир)
+https://hls-01-rbc.hostingradio.ru/rbc-fed0/112/playlist.m3u8
+#EXTINF:0,Радио РБК (Москва)
+https://hls-01-rbc.hostingradio.ru/rbc/playlist.m3u8
+#EXTINF:0,Радио РБК (Питер)
+https://hls-01-rbc.hostingradio.ru/rbc-spb/112/playlist.m3u8
+#EXTINF:0,Радио РБК (Нижний Новгород)
+https://hls-01-rbc.hostingradio.ru/rbc-nnovgorod/playlist.m3u8
+#EXTINF:0,Радио РБК (Воронеж)
+https://hls-01-rbc.hostingradio.ru/rbc-voronezh/playlist.m3u8
+#EXTINF:0,Радио РБК (Тюмень)
+https://hls-01-rbc.hostingradio.ru/rbc-tyumen/playlist.m3u8
+#EXTINF:0,Радио РБК (Урал)
+https://hls-01-rbc.hostingradio.ru/rbc-fed2-ural/playlist.m3u8
