@@ -1,0 +1,41 @@
+#EXTM3U
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/TheMichaelRoblox/iptvbythemichael/refs/heads/main/photo_2026-07-07_17-32-50.jpg", Больше каналов в другом тарифе | t.me/iptvnovy
+https://raw.githubusercontent.com/TheMichaelRoblox/iptvbythemichael/refs/heads/main/index.ts
+#EXTINF:0,Первый канал
+http://d78722d4.melpakomn.ru/iptv/9CG6EM6PYLRC9C/9201/index.m3u8
+#EXTINF:0,Россия 1
+http://d78722d4.melpakomn.ru/iptv/9CG6EM6PYLRC9C/9202/index.m3u8
+#EXTINF:0,МАТЧ! 
+http://d78722d4.melpakomn.ru/iptv/9CG6EM6PYLRC9C/535/index.m3u8
+#EXTINF:0,НТВ
+http://d78722d4.melpakomn.ru/iptv/9CG6EM6PYLRC9C/9203/index.m3u8
+#EXTINF:0, Пятый канал
+http://d78722d4.melpakomn.ru/iptv/9CG6EM6PYLRC9C/9096/index.m3u8
+#EXTINF:0,Россия 24
+http://d78722d4.melpakomn.ru/iptv/9CG6EM6PYLRC9C/507/index.m3u8
+#EXTINF:0,Россия К
+http://d78722d4.melpakomn.ru/iptv/9CG6EM6PYLRC9C/505/index.m3u8
+#EXTINF:0,Карусель
+http://d78722d4.melpakomn.ru/iptv/9CG6EM6PYLRC9C/156/index.m3u8
+#EXTINF:0,ОТР
+http://d78722d4.melpakomn.ru/iptv/9CG6EM6PYLRC9C/705/index.m3u8
+#EXTINF:0,ТВЦ
+http://d78722d4.melpakomn.ru/iptv/9CG6EM6PYLRC9C/9095/index.m3u8
+#EXTINF:0,РЕН ТВ
+http://d78722d4.melpakomn.ru/iptv/9CG6EM6PYLRC9C/9205/index.m3u8
+#EXTINF:0,Спас
+http://d78722d4.melpakomn.ru/iptv/9CG6EM6PYLRC9C/983/index.m3u8
+#EXTINF:0, СТС
+http://d78722d4.melpakomn.ru/iptv/9CG6EM6PYLRC9C/506/index.m3u8
+#EXTINF:0,Домашний
+http://d78722d4.melpakomn.ru/iptv/9CG6EM6PYLRC9C/514/index.m3u8
+#EXTINF:0,ТВ3
+http://d78722d4.melpakomn.ru/iptv/9CG6EM6PYLRC9C/508/index.m3u8
+#EXTINF:0,Пятница
+http://d78722d4.melpakomn.ru/iptv/9CG6EM6PYLRC9C/503/index.m3u8
+#EXTINF:0,Мир
+http://d78722d4.melpakomn.ru/iptv/9CG6EM6PYLRC9C/9098/index.m3u8
+#EXTINF:0,ТНТ
+http://d78722d4.melpakomn.ru/iptv/9CG6EM6PYLRC9C/9204/index.m3u8
+#EXTINF:0,МУЗ-ТВ
+http://d78722d4.melpakomn.ru/iptv/9CG6EM6PYLRC9C/116/index.m3u8
