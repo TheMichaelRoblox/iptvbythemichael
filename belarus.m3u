@@ -1,0 +1,74 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1582200414598.jpg" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Беларусь" logo="https://i.postimg.cc/90TrHqwr/98df76884f82f0f9c61fc644d64aa351.png" channelId="346" tvg-id="belarus1",Беларусь 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.1
+https://mfe.svc.ott.zala.by/hls/M52YG9EVYD_HLS/variant.m3u8
+#EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1415259010733.png" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Беларусь" logo="http://overlay.iptvin.online/epg/PIC/%D0%9E%D0%9D%D0%A2%20BY.png" channelId="347" tvg-id="ont-by",ОНТ Беларусь
+#EXTVLCOPT:http-user-agent=Mozilla/5.1
+https://mfe.svc.ott.zala.by/hls/NCLEFHVZGR_HLS/variant.m3u8
+#EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1541410901860.jpg" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Беларусь" logo="https://i.ibb.co/zrCSHmJ/STV-Belarus-220x132-tr.png" channelId="348" tvg-id="stv-by",СТВ Беларусь
+#EXTVLCOPT:http-user-agent=Mozilla/5.1
+https://mfe.svc.ott.zala.by/hls/RZEQ3BLSTY_HLS/variant.m3u8
+#EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1427114333614.png" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Беларусь" logo="https://i.postimg.cc/X7dQQHq0/a45aed909a51d78c8119320ae6c356ae.png" channelId="138" tvg-id="mir",Мир
+#EXTVLCOPT:http-user-agent=Mozilla/5.1
+https://mfe.svc.ott.zala.by/hls/M4K3ZYBPWQ_HLS/variant.m3u8
+#EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1726060569613.jpg" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Информационные" tvg-id="pervy-info-by",Первый информационный
+#EXTVLCOPT:http-user-agent=Mozilla/5.1
+https://mfe.svc.ott.zala.by/hls/CH_1INFORM_HLS/variant.m3u8
+#EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1471865681241.png" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Беларусь" logo="https://i.postimg.cc/ZqGzs3tf/436bcb7225d0ca22e9a0c01c6d5da362.png" channelId="350" tvg-id="rtr-belarus",РТР Беларусь
+#EXTVLCOPT:http-user-agent=Mozilla/5.1
+https://mfe.svc.ott.zala.by/hls/7MQSYYGHFE_HLS/variant.m3u8
+#EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1571644901218.jpg" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Беларусь" logo="https://i.postimg.cc/PqPfk8BT/5c7879cf9b8a243c5ff9fec978dc348b.png" channelId="346" tvg-id="belarus3",Беларусь 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.1
+https://mfe.svc.ott.zala.by/hls/TSNEW37RPC_HLS/variant.m3u8
+#EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1588164953719.jpg" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Спорт" logo="https://otv.one/uploads/tv_image/%D0%91%D0%B5%D0%BB%D0%B0%D1%80%D1%83%D1%81%D1%8C-5-hd.png" channelId="1511" tvg-id="belarus5",Беларусь 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.1
+https://mfe.svc.ott.zala.by/hls/JRKVSUPCP8_HLS/variant.m3u8
+#EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1588164967847.jpg" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Беларусь" logo="https://i.postimg.cc/0NQj24Jg/94296a1d7c4eb1ca9eea9a3a7459a453.png" channelId="346" tvg-id="belarus2",Беларусь 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.1
+https://mfe.svc.ott.zala.by/hls/GCKYZGGFEJ_HLS/variant.m3u8
+title="Беларусь" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB7sZ2qNPzITubZWbbWPXEhTdAoG1df4ppU4dDuNF5OQ&s=10" channelId="3866" tvg-id="tro",Союзный
+https://mfe.svc.ott.zala.by/hls/CH_TRO_HLS/variant.m3u8
+#EXTINF:-1, catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Беларусь"  tvg-logo"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtDOPT89zc5_Ay3OG2VqdSmb2V2iDr-Hoe7PyN23wFJQ&s=10", Спорт ТВ
+https://efir.voha.tv/sport/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1588164935385.jpg" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Развлекательные",Яснае ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.1
+https://mfe.svc.ott.zala.by/hls/CH_MINSKTV_HLS/variant.m3u8
+#EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1537267121374.jpg" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Региoнальные" logo="https://i.postimg.cc/TPLxsvDP/acaa9d663d82aec5a1d296b3704a69e1.png" channelId="346" tvg-id="belarus4-brest",Беларусь 4 Брест
+#EXTVLCOPT:http-user-agent=Mozilla/5.1
+https://mfe.svc.ott.zala.by/hls/CH_BELARUS4BR_HLS/variant.m3u8
+#EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1537267497150.jpg" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Региoнальные" logo="http://overlay.iptvin.online/epg/PIC/%D0%91%D0%B5%D0%BB%D0%B0%D1%80%D1%83%D1%81%D1%8C%20%D0%B2%D0%B8%D1%82%D0%B5%D0%B1%D1%81%D0%BA.png" channelId="-1" tvg-id="belarus4-vitebsk",Беларусь 4 Витебск
+#EXTVLCOPT:http-user-agent=Mozilla/5.1
+https://mfe.svc.ott.zala.by/hls/CH_BELARUS4VIT_HLS/variant.m3u8
+#EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1537268048973.jpg" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Региoнальные" logo="http://overlay.iptvin.online/epg/PIC/%D0%91%D0%B5%D0%BB%D0%B0%D1%80%D1%83%D1%81%D1%8C%20%D0%B3%D0%BE%D0%BC%D0%B5%D0%BB%D1%8C.png" channelId="-1" tvg-id="belarus4-gomel",Беларусь 4 Гомель
+#EXTVLCOPT:http-user-agent=Mozilla/5.1
+https://mfe.svc.ott.zala.by/hls/CH_BELARUS4GOM_HLS/variant.m3u8
+#EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1537268621239.jpg" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Региoнальные" logo="https://i.postimg.cc/3xzVd4kK/31b8118703c0c25ae2f265e6eacba55f.png" channelId="346" tvg-id="belarus4-grodno",Беларусь 4 Гродно
+#EXTVLCOPT:http-user-agent=Mozilla/5.1
+https://mfe.svc.ott.zala.by/hls/CH_BELARUS4GR_HLS/variant.m3u8
+#EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1537268875597.jpg" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Региoнальные" logo="https://i.postimg.cc/Gpk7tM0Q/147ca3c065cea4003c94b1f361235b85.png" channelId="346" tvg-id="belarus4-mogilev",Беларусь 4 Могилев
+#EXTVLCOPT:http-user-agent=Mozilla/5.1
+https://mfe.svc.ott.zala.by/hls/CH_BELARUS4MOG_HLS/variant.m3u8
+#EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1582549825124.jpg" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Региoнальные" logo="https://bugtv.by/img/bug-inform/logo-large.png" channelId="-1" tvg-id="bug-tv",Буг-ТВ Брест
+#EXTVLCOPT:http-user-agent=Mozilla/5.1
+https://mfe.svc.ott.zala.by/hls/CH_BUGTV_HLS/variant.m3u8
+#EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1578118355719.jpg" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Региoнальные",Вектор ТВ Новополоцк
+#EXTVLCOPT:http-user-agent=Mozilla/5.1
+https://mfe.svc.ott.zala.by/hls/CH_VECTOR_HLS/variant.m3u8
+#EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1537256912700.jpg" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Региoнальные" channelId="-1" tvg-id="grodno-plus",Гродно Плюс
+#EXTVLCOPT:http-user-agent=Mozilla/5.1
+https://mfe.svc.ott.zala.by/hls/CH_GRODNO_HLS/variant.m3u8
+#EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1625124166626.jpg" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Региoнальные",Интекс Барановичи
+#EXTVLCOPT:http-user-agent=Mozilla/5.1
+https://mfe.svc.ott.zala.by/hls/CH_INTEX_HLS/variant.m3u8
+#EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1582551175145.jpg" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Региoнальные" logo="http://yasna.by/wp-content/uploads/2020/08/%D0%9B%D0%B0%D0%B3%D1%83%D0%BD%D0%B0-%D0%A2%D0%92_optimized-300x82.jpg" channelId="-1",Лагуна ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.1
+https://mfe.svc.ott.zala.by/hls/CH_LAGUNA_HLS/variant.m3u8
+#EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1677741614723.png" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Региoнальные" logo="http://overlay.iptvin.online/epg/PIC/%D0%A2%D0%92%20%D0%9B%D0%B8%D0%B4%D0%B0.png" channelId="-1" tvg-id="lida",Лида-ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.1
+https://mfe.svc.ott.zala.by/hls/CH_LIDA_HLS/variant.m3u8
+#EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1625127059738.jpg" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Региoнальные" logo="http://belsmi.by/files/smi/372.jpg" channelId="-1" tvg-id="pervy-gorodskoy-gom",Первый городской Гомель
+#EXTVLCOPT:http-user-agent=Mozilla/5.1
+https://mfe.svc.ott.zala.by/hls/CH_GOMEL_HLS/variant.m3u8
+#EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1703076242107.jpg" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Региoнальные" logo="http://overlay.iptvin.online/epg/PIC/%D0%9F%D0%B8%D0%BD%D1%81%D0%BA%20%D0%A2%D0%92.png" channelId="-1" tvg-id="pinsk-tv",ТК Пинск
+#EXTVLCOPT:http-user-agent=Mozilla/5.1
+https://mfe.svc.ott.zala.by/hls/CH_PINSK_HLS/variant.m3u8
