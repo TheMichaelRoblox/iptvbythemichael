@@ -28,7 +28,7 @@ https://mfe.svc.ott.zala.by/hls/JRKVSUPCP8_HLS/variant.m3u8
 https://mfe.svc.ott.zala.by/hls/GCKYZGGFEJ_HLS/variant.m3u8
 title="Беларусь" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB7sZ2qNPzITubZWbbWPXEhTdAoG1df4ppU4dDuNF5OQ&s=10" channelId="3866" tvg-id="tro",Союзный
 https://mfe.svc.ott.zala.by/hls/CH_TRO_HLS/variant.m3u8
-#EXTINF:-1, catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Беларусь"  tvg-logo"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtDOPT89zc5_Ay3OG2VqdSmb2V2iDr-Hoe7PyN23wFJQ&s=10", Спорт ТВ
+#EXTINF:-1, catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Спорт"  tvg-logo"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtDOPT89zc5_Ay3OG2VqdSmb2V2iDr-Hoe7PyN23wFJQ&s=10", Спорт ТВ
 https://efir.voha.tv/sport/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://fe.svc.ott.zala.by/images//c60x60/broadcastChannel1588164935385.jpg" catchup="append" catchup-days="2" catchup-source="?offset=-${offset}" group-title="Развлекательные",Яснае ТВ
 #EXTVLCOPT:http-user-agent=Mozilla/5.1
